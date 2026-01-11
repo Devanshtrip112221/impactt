@@ -14,6 +14,11 @@
   </a>
 </p>
 
+
+
+
+
+
 ```yaml
 name: Devansh Tripathi
 role: BCA Student | Web Developer
@@ -26,10 +31,11 @@ skills:
   - CSS
   - JavaScript
   - SQL
+
 goal: Become a full-stack developer
+```
 
-<h2>Tools & Technologies</h2>
-
+<h2>🚀 Tools & Technologies</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
@@ -39,9 +45,4 @@ goal: Become a full-stack developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-
 
