@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h2 align="center">I'm Devansh Tripathi 👋</h2>
+<h2 align="center">I'm Devansh Tripathi </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/">
@@ -23,19 +23,21 @@
 name: Devansh Tripathi
 role: BCA Student | Web Developer
 learning:
-  - Python
-  - Django
+  - AL/ML
   - React
 skills:
+  - Python
+  - MYSQL
+  - Django
   - HTML
   - CSS
   - JavaScript
-  - SQL
+  
 
 goal: Become a full-stack developer
 ```
 
-<h2>🚀 Tools & Technologies</h2>
+<h2> Tools & Technologies</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
