@@ -23,6 +23,7 @@
 name: Devansh Tripathi
 role: BCA Student | Web Developer
 learning:
+  - Data Analytics
   - AI/ML
   - React
 skills:
