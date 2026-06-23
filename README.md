@@ -1,51 +1,200 @@
+# Devansh Tripathi
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<div align="center">
 
-<h2 align="center">I'm Devansh Tripathi </h2>
+### Python Developer | Django Developer | Full Stack Web Developer
 
-<p align="center">
-  <a href="https:www.linkedin.com/in/devansh-tripathi-4a89222b9/">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-  </a>
-  <a href="https://github.com/">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Developer;Full+Stack+Web+Developer;Data+Analytics+Enthusiast"/>
+
+</div>
+
+---
 
 
+# Devansh Tripathi
 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Python+Developer;Django+Developer;Full+Stack+Web+Developer;Data+Analytics+Enthusiast"/>
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Devanshtrip112221&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+## About Me
 
 ```yaml
-name: Devansh Tripathi
-role: BCA Student | Web Developer
-learning:
-  - Data Analytics
-  - AI/ML
-  - React
-skills:
-  - Python
-  - MYSQL
-  - Django
-  - HTML
-  - CSS
-  - JavaScript
-  
+Name: Devansh Tripathi
+Education: Bachelor of Computer Applications (BCA)
 
-goal: Become a full-stack developer
+Focus:
+  - Python Development
+  - Django Development
+  - Full Stack Development
+  - Data Analytics
+
+Currently Learning:
+  - React.js
+  - Advanced Django
+  - Machine Learning
+
+Career Goal:
+  Software Engineer
 ```
 
-<h2> Tools & Technologies</h2>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
+---
 
+## Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,js,react,nodejs,express,mysql,html,css,git,github,vscode" />
+
+</div>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Student ERP System
+
+Role-based ERP platform for educational institutions.
+
+**Features**
+
+* Student Management
+* Attendance Tracking
+* Fee Management
+* Marks Management
+* Notice System
+
+**Tech Stack**
+
+Python • Django • SQLite • JavaScript
+
+</td>
+
+<td width="50%">
+
+### GauSeva Platform
+
+Web application supporting Gau Seva initiatives.
+
+**Features**
+
+* Backend APIs
+* Database Integration
+* Secure Routing
+* Responsive Design
+
+**Tech Stack**
+
+Node.js • Express.js • SQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Expense Tracker
+
+Personal finance management application.
+
+**Features**
+
+* Expense Tracking
+* Income Management
+* Budget Monitoring
+* Financial Dashboard
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+
+### Student Performance Analysis
+
+Data analytics project using academic datasets.
+
+**Features**
+
+* Data Cleaning
+* EDA
+* Power BI Dashboards
+* Trend Analysis
+
+**Tech Stack**
+
+Python • Pandas • NumPy • Power BI
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devanshtrip112221&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshtrip112221&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshtrip112221&layout=compact&hide_border=true"/>
+
+</div>
+
+---
+
+## Current Learning Journey
+
+```text
+Python         ██████████████░░░░ 80%
+Django         █████████████░░░░░ 75%
+JavaScript     ████████████░░░░░░ 70%
+React.js       ████████░░░░░░░░░░ 45%
+Data Analytics ██████████░░░░░░░░ 60%
+```
+
+---
+
+## Connect
+
+LinkedIn:
+https://www.linkedin.com/in/devansh-tripathi-4a89222b9
+
+GitHub:
+https://github.com/Devanshtrip112221
+
+Email:
+[tdevanshtripathi@gmail.com](mailto:tdevanshtripathi@gmail.com)
+
+Location:
+Raipur, Chhattisgarh, India
+
+---
+
+<div align="center">
+
+Building practical projects and continuously improving development skills.
+
+</div>
