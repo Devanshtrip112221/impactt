@@ -11,20 +11,6 @@
 ---
 
 
-# Devansh Tripathi
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Python+Developer;Django+Developer;Full+Stack+Web+Developer;Data+Analytics+Enthusiast"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Devanshtrip112221&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
 ## About Me
 
 ```yaml
