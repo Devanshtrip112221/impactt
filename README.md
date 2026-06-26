@@ -131,16 +131,14 @@ Python • Pandas • NumPy • Power BI
 
 ---
 
-## 🚀 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devanshtrip112221&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshtrip112221&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshtrip112221&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 ## Current Learning Journey
 
