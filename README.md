@@ -22,11 +22,11 @@ Focus:
   - Django Development
   - Full Stack Development
   - Data Analytics
+  - Machine Learning
 
 Currently Learning:
   - React.js
   - Advanced Django
-  - Machine Learning
 
 Career Goal:
   Software Engineer
