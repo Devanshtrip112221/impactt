@@ -163,8 +163,7 @@ https://github.com/Devanshtrip112221
 Email:
 [tdevanshtripathi@gmail.com](mailto:tdevanshtripathi@gmail.com)
 
-Location:
-Raipur, Chhattisgarh, India
+
 
 ---
 
