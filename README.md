@@ -38,7 +38,7 @@ Career Goal:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,js,react,nodejs,express,mysql,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,js,react,mysql,html,css,git,github,vscode,ml" />
 
 </div>
 
